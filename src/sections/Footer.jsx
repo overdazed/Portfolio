@@ -19,19 +19,19 @@ const Footer = () => {
                     <p>© 2026 Svetlana Pantschenko. All rights reserved.</p>
                 </div>
 
-                <div className="flex gap-3">
+<div className="flex gap-3">
                     <div className="social-icon">
-                        <a href="https://github.com/overdazed" target="_blank" rel="noopener noreferrer" className="text-white hover:text-gray-500 transition-colors">
+                        <a href="https://github.com/overdazed" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
                             <AiFillGithub className="w-6 h-6" />
                         </a>
                     </div>
                     <div className="social-icon">
-                        <a href="https://linkedin.com/in/svetlana-pantschenko-498509343" target="_blank" rel="noopener noreferrer" className="text-white hover:text-gray-500 transition-colors">
+                        <a href="https://linkedin.com/in/svetlana-pantschenko-498509343" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
                             <AiFillLinkedin className="w-6 h-6" />
                         </a>
                     </div>
                     <div className="social-icon">
-                        <a href="mailto:sv.pant@proton.me" className="text-white hover:text-gray-500 transition-colors">
+                        <a href="mailto:sv.pant@proton.me" className="text-gray-400 hover:text-white transition-colors">
                             <AiOutlineMail className="w-6 h-6" />
                         </a>
                     </div>
