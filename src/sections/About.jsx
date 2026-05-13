@@ -63,7 +63,7 @@ I continuously learn and apply new technologies through hands-on projects.</p>
                                 globeImageUrl="//cdn.jsdelivr.net/npm/three-globe/example/img/earth-night.jpg"
                                 bumpImageUrl="//cdn.jsdelivr.net/npm/three-globe/example/img/earth-topology.png"
                                 labelsData={[{
-                                    lat: 51, lng: 10, text: "I'm here!", color: "white", size: 20
+                                    lat: 50.5833, lng: 8.6667, text: "I'm here!", color: "white", size: 20
                                 }]}
                             />
                         </div>
