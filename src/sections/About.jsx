@@ -72,7 +72,7 @@ I continuously learn and apply new technologies through hands-on projects.</p>
                                 I work remotely across most time zones, so feel free to contact me.
                             </p>
                             <p className="grid-subtext">
-                                I'm based in Germany, with remote work options available.
+                                I'm based in Germanyy, with remote work options available.
                             </p>
                             <a href="mailto:sv.pant@proton.me">
                                 <Button name="Contact Me" isBeam containerClass="w-full mt-10" />
